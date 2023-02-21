@@ -72,9 +72,9 @@ Have two LEGO trams drive autonomously in your Winter Village on a single track!
 - Project will be revisited next winter. 
 
 ## Room for Improvement
-- Multiple color tiles can be used at each station (West (1), North (2), East (3), South (4)) if the room lighting allows. 
-- Stations having different colors allow for more complex code where the trams communicate where they are to prevent crashes.
-- Simultaneous driving can be done, but code based on timing can depend of batteries being at the same charge. 
+- Different color tiles can be used at each station (West (1), North (2), East (3), South (4)) if the room lighting allows. 
+- Stations having different colors allow for more complex code where the trams communicate where they are to prevent collisions.
+- Simultaneous driving can be done, but code based on timing depends batteries being at the same charge. 
 
 ## Acknowledgements and Thanks
 - This project was inspired by Jamie Berard's creation of the Winter Village Collection.
